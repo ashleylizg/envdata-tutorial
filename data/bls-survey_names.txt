@@ -1,0 +1,46 @@
+1. Title: 2016 Boat Launch Stewards Observations
+
+2. Source: SLELO PRISM
+
+3. Relevant Information: This data set includes aquatic survey results collected by Boat Launch Stewards during 2016 field season as a part of the St. Lawrence Eastern lake Ontario Partnerhsip for Invasive Species Managmement (SLELO PRISM).
+
+4. Number of Instances: 1166
+
+6. Number of Attributes: 22
+
+7. Attribute Information:
+     1. Steward Name:             A,B,C,D
+     2. Boat Launch:              Cape Vincent,Henderson,Sackets Harbor,Wrights Landing
+     3. Weather Conditions:       Various (string type)
+     4. Date:                     Various (string type)
+     5. Inspection Time:          Various (string type)   
+     6. Boat Type:                Motorized=M,Kayak=K,Personal Watercraft=PWC,Sailboat=S,Canoe=C,Motorized Sailboat=M/S
+     7. Group Size:               Various (integer)
+     8. State of Registration:    Various (string types of state abbreviations)
+     9. Launch or Retrieve:       Launch=L,Retrieve=R
+    10. Prior BLS contact?:       Yes=Y,No=N
+    11. Spread Prevention Steps:  Wash Boat=WB,Remove Weeds=RW,Drain Bilge Water=DBW,Clean, Drain, Dry=CDD,
+				  Drain Livewells=LW,Dispose of Bait Properly=DB,Drain Boat Ballast=DBB,Dries Boat=Dry
+			          None=None,Not Recorded = NaN, 
+    12. Aquatic Organisms Found?: Yes=Y,No=N
+    13. Species ID: 	          Eelgrass=EG,Elodea=EL,Curly-leaf Pondweed=CLP,Eurasian Watermilfoil=EWM,
+			          Zebra Mussel=ZM,Native Pondweed=NP,Coontail=CT,Variable leaf Milfoil=VLM, 				  			  Unknown=UNK,Other=Other,Not Recorded=NaN
+    14. Accepted Info Materials?: Yes=Y,No=N
+    15. Last Waterbody Visited:   Various (string type)
+    16. Last Waterbody Cleaned:   Various (string type)
+    17. Next Waterbody to Visit:  Various (string type)
+    18. Next Waterbody Cleaned:   Various (string type)
+    19. Planned Travel Route:     Various (string type)
+    20. Would Use a 
+	Decontamination Station?: Yes=Y, No=N, Maybe=M, Not Recorded=NaN
+    21. Purpose:                  Recreation,Fishing,Fishing and Recreation,Not Recorded=NaN
+    22. Notes:                    Various (string type)
+
+8. Missing Attribute Values: Denoted by N/A or NaN
+
+9. Additional Information: The Last Waterbody Visited column refers to the last waterbody visited within 2 weeks.
+		           Multiple responses are separated by '|'. The 'Cleaned' columns denote associated states
+			   and countries where applicable, following the logic that smaller towns, if mentioned
+		           alongside more general waterbodies, would be used to indicate a specific area where a
+	                   boat would have been launched. Mentions of oceans and states are reduced to state names
+		           when applicable.
