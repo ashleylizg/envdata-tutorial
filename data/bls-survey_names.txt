@@ -2,7 +2,7 @@
 
 2. Source: SLELO PRISM
 
-3. Relevant Information: This data set includes aquatic survey results collected by Boat Launch Stewards during 2016 field season as a part of the St. Lawrence Eastern lake Ontario Partnerhsip for Invasive Species Managmement (SLELO PRISM).
+3. Relevant Information: This data set includes aquatic survey results collected by Boat Launch Stewards during 2016 field season as a part of the St. Lawrence Eastern Lake Ontario Partnership for Invasive Species Managmement (SLELO PRISM).
 
 4. Number of Instances: 1166
 
@@ -24,15 +24,15 @@
 			          None=None,Not Recorded = NaN, 
     12. Aquatic Organisms Found?: Yes=Y,No=N
     13. Species ID: 	          Eelgrass=EG,Elodea=EL,Curly-leaf Pondweed=CLP,Eurasian Watermilfoil=EWM,
-			          Zebra Mussel=ZM,Native Pondweed=NP,Coontail=CT,Variable leaf Milfoil=VLM, 				  			  Unknown=UNK,Other=Other,Not Recorded=NaN
+			          Zebra Mussel=ZM,Native Pondweed=NP,Coontail=CT,Variable leaf Milfoil=VLM, 				  			  
+                                  Unknown=UNK,Other=Other,Not Recorded=NaN
     14. Accepted Info Materials?: Yes=Y,No=N
     15. Last Waterbody Visited:   Various (string type)
     16. Last Waterbody Cleaned:   Various (string type)
     17. Next Waterbody to Visit:  Various (string type)
     18. Next Waterbody Cleaned:   Various (string type)
     19. Planned Travel Route:     Various (string type)
-    20. Would Use a 
-	Decontamination Station?: Yes=Y, No=N, Maybe=M, Not Recorded=NaN
+    20. Would Use a Decontamination Station?: Yes=Y, No=N, Maybe=M, Not Recorded=NaN
     21. Purpose:                  Recreation,Fishing,Fishing and Recreation,Not Recorded=NaN
     22. Notes:                    Various (string type)
 
